@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\fab_shadow_mini.png",
+        "source": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\exploded-aar\\com.melnykov\\floatingactionbutton\\1.3.0\\res\\drawable-xxxhdpi-v4\\fab_shadow_mini.png"
+    },
+    {
+        "merged": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\fab_shadow.png",
+        "source": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\exploded-aar\\com.melnykov\\floatingactionbutton\\1.3.0\\res\\drawable-xxxhdpi-v4\\fab_shadow.png"
+    }
+]
