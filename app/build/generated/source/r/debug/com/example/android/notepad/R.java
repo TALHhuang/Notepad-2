@@ -94,15 +94,18 @@ containing a value of this type.
         public static final int editview_bg=0x7f020005;
         public static final int fab_shadow=0x7f020006;
         public static final int fab_shadow_mini=0x7f020007;
-        public static final int ic_menu_compose=0x7f020008;
-        public static final int ic_menu_delete=0x7f020009;
-        public static final int ic_menu_edit=0x7f02000a;
-        public static final int ic_menu_revert=0x7f02000b;
-        public static final int ic_menu_save=0x7f02000c;
-        public static final int live_folder_notes=0x7f02000d;
-        public static final int search=0x7f02000e;
-        public static final int search1=0x7f02000f;
-        public static final int tianjia=0x7f020010;
+        public static final int ic_launcher=0x7f020008;
+        public static final int ic_menu_compose=0x7f020009;
+        public static final int ic_menu_delete=0x7f02000a;
+        public static final int ic_menu_edit=0x7f02000b;
+        public static final int ic_menu_revert=0x7f02000c;
+        public static final int ic_menu_save=0x7f02000d;
+        public static final int live_folder_notes=0x7f02000e;
+        public static final int redocn=0x7f02000f;
+        public static final int search=0x7f020010;
+        public static final int search1=0x7f020011;
+        public static final int tianjia=0x7f020012;
+        public static final int timg=0x7f020013;
     }
     public static final class id {
         public static final int DarkGray=0x7f080007;

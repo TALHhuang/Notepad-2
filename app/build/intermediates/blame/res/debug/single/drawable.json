@@ -24,8 +24,16 @@
         "source": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\drawable\\ic_menu_revert.png"
     },
     {
+        "merged": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\redocn.jpg",
+        "source": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\drawable\\redocn.jpg"
+    },
+    {
         "merged": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_notes.png",
         "source": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\drawable\\app_notes.png"
+    },
+    {
+        "merged": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timg.jpg",
+        "source": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\drawable\\timg.jpg"
     },
     {
         "merged": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_edit_edittext_normal.xml",
@@ -54,6 +62,10 @@
     {
         "merged": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_edit_edittext_focused.xml",
         "source": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\drawable\\contact_edit_edittext_focused.xml"
+    },
+    {
+        "merged": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\drawable\\ic_launcher.png"
     },
     {
         "merged": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_folder_notes.png",

@@ -17,6 +17,8 @@
 package com.example.android.notepad;
 import com.example.android.notepad.NotePad;
 import com.example.android.notepad.application.MyApplication;
+import com.melnykov.fab.FloatingActionButton;
+
 import android.app.AlertDialog;
 import android.app.ListActivity;
 import android.content.ClipboardManager;
@@ -45,7 +47,6 @@ import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.SimpleCursorAdapter;
 import android.widget.Toast;
-
 /**
  * Displays a list of notes. Will display notes from the {@link Uri}
  * provided in the incoming Intent if there is one, otherwise it defaults to displaying the
@@ -133,9 +134,13 @@ public class NotesList extends ListActivity implements View.OnClickListener {
     绑定id
      */
     private void initView() {
+   ;
         ll_noteList= (LinearLayout) findViewById(R.id.noteList_layout);
         iv_addnotes= (ImageView) findViewById(R.id.fab);
         lv_notesList= (ListView) findViewById(android.R.id.list);//绑定listView;
+        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
+        fab.attachToListView(lv_notesList);
+        fab.setBackgroundResource(R.drawable.ic_launcher);
         et_Search= (EditText) findViewById(R.id.et_Search);
         iv_searchnotes= (ImageView) findViewById(R.id.iv_searchnotes);
 
@@ -552,7 +557,7 @@ public class NotesList extends ListActivity implements View.OnClickListener {
                 MyApplication.setBackground(color);
                 MyApplication.saveBackground();
                 break;
-            case R.id.Snow:
+           case R.id.Snow:
                 color="#FFFAFA";
                 ll_noteList.setBackgroundColor(Color.parseColor(color));
                 lv_notesList.setBackgroundColor(Color.parseColor(color));

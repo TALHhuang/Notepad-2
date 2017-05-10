@@ -21,7 +21,7 @@
     <string name="title_edit_title">Note title:</string>
     <string name="title_create">New note</string>
     <string name="title_edit">Edit: %1$s</string>
-    <string name="title_notes_list">Notes</string>
+    <string name="title_notes_list">TALH Notes</string>
 
     <string name="menu_add">New note</string>
     <string name="menu_save">Save</string>
@@ -40,5 +40,5 @@
     <string name="error_title">Error</string>
     <string name="error_message">Error loading note</string>
     <string name="nothing_to_save">There is nothing to save</string>
-    <string name="background">Background</string>
+    <string name="background">Change Color</string>
 </resources>

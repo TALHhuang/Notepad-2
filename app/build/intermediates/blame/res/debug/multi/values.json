@@ -330,17 +330,17 @@
                     "startLine": 20,
                     "startColumn": 4,
                     "startOffset": 1234,
-                    "endColumn": 49,
-                    "endOffset": 1279
+                    "endColumn": 51,
+                    "endOffset": 1281
                 },
                 "from": {
                     "file": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
-                        "startOffset": 1689,
-                        "endColumn": 49,
-                        "endOffset": 1734
+                        "startOffset": 1694,
+                        "endColumn": 51,
+                        "endOffset": 1741
                     }
                 }
             },
@@ -348,18 +348,18 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 1284,
+                    "startOffset": 1286,
                     "endColumn": 40,
-                    "endOffset": 1320
+                    "endOffset": 1322
                 },
                 "from": {
                     "file": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
-                        "startOffset": 1320,
+                        "startOffset": 1325,
                         "endColumn": 40,
-                        "endOffset": 1356
+                        "endOffset": 1361
                     }
                 }
             },
@@ -367,9 +367,9 @@
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 1325,
+                    "startOffset": 1327,
                     "endColumn": 48,
-                    "endOffset": 1369
+                    "endOffset": 1371
                 },
                 "from": {
                     "file": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\exploded-aar\\com.melnykov\\floatingactionbutton\\1.3.0\\res\\values\\values.xml",
@@ -386,18 +386,18 @@
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 1374,
+                    "startOffset": 1376,
                     "endColumn": 60,
-                    "endOffset": 1430
+                    "endOffset": 1432
                 },
                 "from": {
                     "file": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
-                        "startOffset": 1559,
+                        "startOffset": 1564,
                         "endColumn": 60,
-                        "endOffset": 1615
+                        "endOffset": 1620
                     }
                 }
             },
@@ -405,18 +405,18 @@
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 1435,
+                    "startOffset": 1437,
                     "endColumn": 45,
-                    "endOffset": 1476
+                    "endOffset": 1478
                 },
                 "from": {
                     "file": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
-                        "startOffset": 1513,
+                        "startOffset": 1518,
                         "endColumn": 45,
-                        "endOffset": 1554
+                        "endOffset": 1559
                     }
                 }
             },
@@ -424,9 +424,9 @@
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 1481,
+                    "startOffset": 1483,
                     "endColumn": 82,
-                    "endOffset": 1559
+                    "endOffset": 1561
                 },
                 "from": {
                     "file": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\exploded-aar\\com.melnykov\\floatingactionbutton\\1.3.0\\res\\values\\values.xml",
@@ -443,9 +443,9 @@
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 1564,
+                    "startOffset": 1566,
                     "endColumn": 122,
-                    "endOffset": 1682
+                    "endOffset": 1684
                 },
                 "from": {
                     "file": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\exploded-aar\\com.melnykov\\floatingactionbutton\\1.3.0\\res\\values\\values.xml",
@@ -462,9 +462,9 @@
                 "to": {
                     "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 1687,
+                    "startOffset": 1689,
                     "endColumn": 74,
-                    "endOffset": 1757
+                    "endOffset": 1759
                 },
                 "from": {
                     "file": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\exploded-aar\\com.melnykov\\floatingactionbutton\\1.3.0\\res\\values\\values.xml",
@@ -481,9 +481,9 @@
                 "to": {
                     "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 1762,
+                    "startOffset": 1764,
                     "endColumn": 251,
-                    "endOffset": 2009
+                    "endOffset": 2011
                 },
                 "from": {
                     "file": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\exploded-aar\\com.melnykov\\floatingactionbutton\\1.3.0\\res\\values\\values.xml",
@@ -500,9 +500,9 @@
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 2014,
+                    "startOffset": 2016,
                     "endColumn": 89,
-                    "endOffset": 2099
+                    "endOffset": 2101
                 },
                 "from": {
                     "file": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\exploded-aar\\com.melnykov\\floatingactionbutton\\1.3.0\\res\\values\\values.xml",
@@ -519,9 +519,9 @@
                 "to": {
                     "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 2104,
+                    "startOffset": 2106,
                     "endColumn": 77,
-                    "endOffset": 2177
+                    "endOffset": 2179
                 },
                 "from": {
                     "file": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\exploded-aar\\com.melnykov\\floatingactionbutton\\1.3.0\\res\\values\\values.xml",
@@ -538,9 +538,9 @@
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 2182,
+                    "startOffset": 2184,
                     "endColumn": 123,
-                    "endOffset": 2301
+                    "endOffset": 2303
                 },
                 "from": {
                     "file": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\exploded-aar\\com.melnykov\\floatingactionbutton\\1.3.0\\res\\values\\values.xml",
@@ -557,9 +557,9 @@
                 "to": {
                     "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 2306,
+                    "startOffset": 2308,
                     "endColumn": 70,
-                    "endOffset": 2372
+                    "endOffset": 2374
                 },
                 "from": {
                     "file": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\exploded-aar\\com.melnykov\\floatingactionbutton\\1.3.0\\res\\values\\values.xml",
@@ -576,9 +576,9 @@
                 "to": {
                     "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 2377,
+                    "startOffset": 2379,
                     "endColumn": 123,
-                    "endOffset": 2496
+                    "endOffset": 2498
                 },
                 "from": {
                     "file": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\exploded-aar\\com.melnykov\\floatingactionbutton\\1.3.0\\res\\values\\values.xml",
@@ -595,9 +595,9 @@
                 "to": {
                     "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 2501,
+                    "startOffset": 2503,
                     "endColumn": 50,
-                    "endOffset": 2547
+                    "endOffset": 2549
                 },
                 "from": {
                     "file": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\values\\strings.xml",
@@ -614,18 +614,18 @@
                 "to": {
                     "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 2552,
+                    "startOffset": 2554,
                     "endColumn": 45,
-                    "endOffset": 2593
+                    "endOffset": 2595
                 },
                 "from": {
                     "file": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
-                        "startOffset": 997,
+                        "startOffset": 1002,
                         "endColumn": 45,
-                        "endOffset": 1038
+                        "endOffset": 1043
                     }
                 }
             },
@@ -633,18 +633,18 @@
                 "to": {
                     "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 2598,
+                    "startOffset": 2600,
                     "endColumn": 42,
-                    "endOffset": 2636
+                    "endOffset": 2638
                 },
                 "from": {
                     "file": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
-                        "startOffset": 1231,
+                        "startOffset": 1236,
                         "endColumn": 42,
-                        "endOffset": 1269
+                        "endOffset": 1274
                     }
                 }
             },
@@ -652,18 +652,18 @@
                 "to": {
                     "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 2641,
+                    "startOffset": 2643,
                     "endColumn": 46,
-                    "endOffset": 2683
+                    "endOffset": 2685
                 },
                 "from": {
                     "file": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
-                        "startOffset": 1086,
+                        "startOffset": 1091,
                         "endColumn": 46,
-                        "endOffset": 1128
+                        "endOffset": 1133
                     }
                 }
             },
@@ -671,18 +671,18 @@
                 "to": {
                     "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 2688,
+                    "startOffset": 2690,
                     "endColumn": 42,
-                    "endOffset": 2726
+                    "endOffset": 2728
                 },
                 "from": {
                     "file": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
-                        "startOffset": 1133,
+                        "startOffset": 1138,
                         "endColumn": 42,
-                        "endOffset": 1171
+                        "endOffset": 1176
                     }
                 }
             },
@@ -690,18 +690,18 @@
                 "to": {
                     "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 2731,
+                    "startOffset": 2733,
                     "endColumn": 44,
-                    "endOffset": 2771
+                    "endOffset": 2773
                 },
                 "from": {
                     "file": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
-                        "startOffset": 1274,
+                        "startOffset": 1279,
                         "endColumn": 44,
-                        "endOffset": 1314
+                        "endOffset": 1319
                     }
                 }
             },
@@ -709,18 +709,18 @@
                 "to": {
                     "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 2776,
+                    "startOffset": 2778,
                     "endColumn": 54,
-                    "endOffset": 2826
+                    "endOffset": 2828
                 },
                 "from": {
                     "file": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
-                        "startOffset": 1176,
+                        "startOffset": 1181,
                         "endColumn": 54,
-                        "endOffset": 1226
+                        "endOffset": 1231
                     }
                 }
             },
@@ -728,18 +728,18 @@
                 "to": {
                     "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 2831,
+                    "startOffset": 2833,
                     "endColumn": 42,
-                    "endOffset": 2869
+                    "endOffset": 2871
                 },
                 "from": {
                     "file": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
-                        "startOffset": 1043,
+                        "startOffset": 1048,
                         "endColumn": 42,
-                        "endOffset": 1081
+                        "endOffset": 1086
                     }
                 }
             },
@@ -747,18 +747,18 @@
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 2874,
+                    "startOffset": 2876,
                     "endColumn": 68,
-                    "endOffset": 2938
+                    "endOffset": 2940
                 },
                 "from": {
                     "file": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 4,
-                        "startOffset": 1620,
+                        "startOffset": 1625,
                         "endColumn": 68,
-                        "endOffset": 1684
+                        "endOffset": 1689
                     }
                 }
             },
@@ -766,18 +766,18 @@
                 "to": {
                     "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 2943,
+                    "startOffset": 2945,
                     "endColumn": 50,
-                    "endOffset": 2989
+                    "endOffset": 2991
                 },
                 "from": {
                     "file": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
-                        "startOffset": 1408,
+                        "startOffset": 1413,
                         "endColumn": 50,
-                        "endOffset": 1454
+                        "endOffset": 1459
                     }
                 }
             },
@@ -785,18 +785,18 @@
                 "to": {
                     "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 2994,
+                    "startOffset": 2996,
                     "endColumn": 52,
-                    "endOffset": 3042
+                    "endOffset": 3044
                 },
                 "from": {
                     "file": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
-                        "startOffset": 1459,
+                        "startOffset": 1464,
                         "endColumn": 52,
-                        "endOffset": 1507
+                        "endOffset": 1512
                     }
                 }
             },
@@ -804,18 +804,18 @@
                 "to": {
                     "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 3047,
+                    "startOffset": 3049,
                     "endColumn": 45,
-                    "endOffset": 3088
+                    "endOffset": 3090
                 },
                 "from": {
                     "file": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
-                        "startOffset": 1361,
+                        "startOffset": 1366,
                         "endColumn": 45,
-                        "endOffset": 1402
+                        "endOffset": 1407
                     }
                 }
             },
@@ -823,9 +823,9 @@
                 "to": {
                     "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 3093,
+                    "startOffset": 3095,
                     "endColumn": 49,
-                    "endOffset": 3138
+                    "endOffset": 3140
                 },
                 "from": {
                     "file": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\values\\strings.xml",
@@ -842,9 +842,9 @@
                 "to": {
                     "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 3143,
+                    "startOffset": 3145,
                     "endColumn": 49,
-                    "endOffset": 3188
+                    "endOffset": 3190
                 },
                 "from": {
                     "file": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\values\\strings.xml",
@@ -861,9 +861,9 @@
                 "to": {
                     "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 3193,
+                    "startOffset": 3195,
                     "endColumn": 56,
-                    "endOffset": 3245
+                    "endOffset": 3247
                 },
                 "from": {
                     "file": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\values\\strings.xml",
@@ -880,9 +880,9 @@
                 "to": {
                     "startLine": 49,
                     "startColumn": 4,
-                    "startOffset": 3250,
-                    "endColumn": 50,
-                    "endOffset": 3296
+                    "startOffset": 3252,
+                    "endColumn": 55,
+                    "endOffset": 3303
                 },
                 "from": {
                     "file": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\values\\strings.xml",
@@ -890,8 +890,8 @@
                         "startLine": 23,
                         "startColumn": 4,
                         "startOffset": 945,
-                        "endColumn": 50,
-                        "endOffset": 991
+                        "endColumn": 55,
+                        "endOffset": 996
                     }
                 }
             }
