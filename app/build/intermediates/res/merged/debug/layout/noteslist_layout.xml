@@ -24,8 +24,8 @@
             android:textCursorDrawable="@drawable/contact_edit_edittext_normal"
             />
         <ImageView
-            android:layout_width="30dp"
-            android:layout_height="30dp"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
             android:background="@drawable/search1"
             android:layout_marginRight="10dp"
             android:layout_marginTop="5dp"

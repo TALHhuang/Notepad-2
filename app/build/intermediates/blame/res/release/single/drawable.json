@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_menu_compose.png",
+        "source": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\drawable\\ic_menu_compose.png"
+    },
+    {
+        "merged": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\app_notes.png",
+        "source": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\drawable\\app_notes.png"
+    },
+    {
+        "merged": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bg.png",
+        "source": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\search1.png",
+        "source": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\drawable\\search1.png"
+    },
+    {
+        "merged": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_menu_delete.png",
+        "source": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\drawable\\ic_menu_delete.png"
+    },
+    {
+        "merged": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\se.jpg",
+        "source": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\drawable\\se.jpg"
+    },
+    {
+        "merged": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\search.png",
+        "source": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_menu_save.png",
+        "source": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\drawable\\ic_menu_save.png"
+    },
+    {
+        "merged": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\contact_edit_edittext_focused.xml",
+        "source": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\drawable\\contact_edit_edittext_focused.xml"
+    },
+    {
+        "merged": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\redocn.jpg",
+        "source": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\drawable\\redocn.jpg"
+    },
+    {
+        "merged": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_launcher.png",
+        "source": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_menu_edit.png",
+        "source": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\drawable\\ic_menu_edit.png"
+    },
+    {
+        "merged": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_menu_revert.png",
+        "source": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\drawable\\ic_menu_revert.png"
+    },
+    {
+        "merged": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\addnote.png",
+        "source": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\drawable\\addnote.png"
+    },
+    {
+        "merged": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\editview_bg.xml",
+        "source": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\drawable\\editview_bg.xml"
+    },
+    {
+        "merged": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tianjia.png",
+        "source": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\drawable\\tianjia.png"
+    },
+    {
+        "merged": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\live_folder_notes.png",
+        "source": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\drawable\\live_folder_notes.png"
+    },
+    {
+        "merged": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\contact_edit_edittext_normal.xml",
+        "source": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\drawable\\contact_edit_edittext_normal.xml"
+    },
+    {
+        "merged": "E:\\project\\Notepad-master\\Notepad-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\timg.jpg",
+        "source": "E:\\project\\Notepad-master\\Notepad-master\\app\\src\\main\\res\\drawable\\timg.jpg"
+    }
+]
