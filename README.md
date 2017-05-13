@@ -10,6 +10,7 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
    
    
 二 功能展示<br>
-   1.TALH Notepad 登入进去的主界面<br>
+   1.TALH Notepad 登入进去的主界面<br><br><br>
    ![photo](https://github.com/TALHhuang/Notepad-2/blob/master/photo/1.png)
+ 
    
