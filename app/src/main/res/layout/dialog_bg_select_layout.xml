@@ -7,8 +7,8 @@
     <ImageView
         android:layout_width="40dp"
         android:layout_height="60dp"
-        android:id="@+id/pink"
-        android:background="@color/Pink"
+        android:id="@+id/mediumgreen"
+        android:background="@color/MediumGreen"
         android:layout_weight="0.1"
         android:onClick="ColorSelect"
         />
@@ -17,23 +17,23 @@
         android:layout_height="60dp"
         android:layout_weight="0.1"
         android:id="@+id/Yello"
-        android:background="@color/YELLO"
+        android:background="@color/CanaryYellow"
         android:onClick="ColorSelect"
         />
     <ImageView
         android:layout_width="40dp"
         android:layout_height="60dp"
-        android:id="@+id/PaleVioletRed"
+        android:id="@+id/Red"
         android:layout_weight="0.1"
-        android:background="@color/PaleVioletRed"
+        android:background="@color/Red"
         android:onClick="ColorSelect"
         />
     <ImageView
         android:layout_width="40dp"
         android:layout_height="60dp"
         android:layout_weight="0.1"
-        android:id="@+id/LightGrey"
-        android:background="@color/LightGrey"
+        android:id="@+id/Fuchsia"
+        android:background="@color/Fuchsia"
         android:onClick="ColorSelect"
         />
     <ImageView
@@ -48,16 +48,16 @@
         android:layout_width="40dp"
         android:layout_height="60dp"
         android:layout_weight="0.1"
-        android:id="@+id/DarkGray"
-        android:background="@color/DarkGray"
+        android:id="@+id/Lightsalmon"
+        android:background="@color/Lightsalmon"
         android:onClick="ColorSelect"
         />
     <ImageView
         android:layout_width="40dp"
         android:layout_height="60dp"
         android:layout_weight="0.1"
-        android:id="@+id/Snow"
-        android:background="@color/Snow"
+        android:id="@+id/Aqua"
+        android:background="@color/Aqua"
         android:onClick="ColorSelect"
         />
 

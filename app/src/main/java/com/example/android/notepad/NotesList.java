@@ -503,8 +503,8 @@ public class NotesList extends ListActivity implements View.OnClickListener {
     public void ColorSelect(View view){
         String color;
         switch(view.getId()){
-            case R.id.pink:
-                color="#FFC0CB";
+            case R.id.mediumgreen:
+                color="#7FFF00";
                 ll_noteList.setBackgroundColor(Color.parseColor(color));
                 lv_notesList.setBackgroundColor(Color.parseColor(color));
                 adapter.setBackground(color);
@@ -521,8 +521,8 @@ public class NotesList extends ListActivity implements View.OnClickListener {
                 MyApplication.setBackground(color);
                 MyApplication.saveBackground();
                 break;
-            case R.id.PaleVioletRed:
-                color="#DB7093";
+            case R.id.Red:
+                color="#FF0000";
                 ll_noteList.setBackgroundColor(Color.parseColor(color));
                 lv_notesList.setBackgroundColor(Color.parseColor(color));
                 adapter.setBackground(color);
@@ -530,8 +530,8 @@ public class NotesList extends ListActivity implements View.OnClickListener {
                 MyApplication.setBackground(color);
                 MyApplication.saveBackground();
                 break;
-            case R.id.LightGrey:
-                color="#D3D3D3";
+            case R.id.Fuchsia:
+                color="#DDA0DD";
                 ll_noteList.setBackgroundColor(Color.parseColor(color));
                 lv_notesList.setBackgroundColor(Color.parseColor(color));
                 adapter.setBackground(color);
@@ -548,8 +548,8 @@ public class NotesList extends ListActivity implements View.OnClickListener {
                 MyApplication.setBackground(color);
                 MyApplication.saveBackground();
                 break;
-            case R.id.DarkGray:
-                color="#A9A9A9";
+            case R.id.Lightsalmon:
+                color="#FFA07A";
                 ll_noteList.setBackgroundColor(Color.parseColor(color));
                 lv_notesList.setBackgroundColor(Color.parseColor(color));
                 adapter.setBackground(color);
@@ -557,8 +557,8 @@ public class NotesList extends ListActivity implements View.OnClickListener {
                 MyApplication.setBackground(color);
                 MyApplication.saveBackground();
                 break;
-           case R.id.Snow:
-                color="#FFFAFA";
+           case R.id.Aqua:
+                color="#00FFFF";
                 ll_noteList.setBackgroundColor(Color.parseColor(color));
                 lv_notesList.setBackgroundColor(Color.parseColor(color));
                 adapter.setBackground(color);

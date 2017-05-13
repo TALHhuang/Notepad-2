@@ -67,15 +67,15 @@ containing a value of this type.
     }
     public static final class color {
         public static final int AliceBlue=0x7f040000;
-        public static final int DarkGray=0x7f040001;
-        public static final int LightGrey=0x7f040002;
-        public static final int LightSteelBlue=0x7f040003;
-        public static final int MediumPurple=0x7f040004;
-        public static final int PaleVioletRed=0x7f040005;
-        public static final int PapayaWhip=0x7f040006;
-        public static final int Pink=0x7f040007;
-        public static final int Snow=0x7f040008;
-        public static final int YELLO=0x7f040009;
+        public static final int Aqua=0x7f040001;
+        public static final int CanaryYellow=0x7f040002;
+        public static final int Fuchsia=0x7f040003;
+        public static final int LightSteelBlue=0x7f040004;
+        public static final int Lightsalmon=0x7f040005;
+        public static final int MediumGreen=0x7f040006;
+        public static final int MediumPurple=0x7f040007;
+        public static final int PapayaWhip=0x7f040008;
+        public static final int Red=0x7f040009;
         public static final int material_blue_500=0x7f04000a;
     }
     public static final class dimen {
@@ -109,11 +109,11 @@ containing a value of this type.
         public static final int timg=0x7f020014;
     }
     public static final class id {
-        public static final int DarkGray=0x7f080007;
-        public static final int LightGrey=0x7f080005;
+        public static final int Aqua=0x7f080008;
+        public static final int Fuchsia=0x7f080005;
+        public static final int Lightsalmon=0x7f080007;
         public static final int MediumPurple=0x7f080006;
-        public static final int PaleVioletRed=0x7f080004;
-        public static final int Snow=0x7f080008;
+        public static final int Red=0x7f080004;
         public static final int Yello=0x7f080003;
         public static final int bg_change=0x7f08001b;
         public static final int context_copy=0x7f080019;
@@ -124,6 +124,7 @@ containing a value of this type.
         public static final int iv_editNote=0x7f080011;
         public static final int iv_searchnotes=0x7f08000c;
         public static final int ll_notesItems=0x7f08000e;
+        public static final int mediumgreen=0x7f080002;
         public static final int menu_delete=0x7f080017;
         public static final int menu_paste=0x7f08001a;
         public static final int menu_revert=0x7f080016;
@@ -133,7 +134,6 @@ containing a value of this type.
         public static final int note=0x7f080009;
         public static final int noteList_layout=0x7f08000a;
         public static final int ok=0x7f080014;
-        public static final int pink=0x7f080002;
         public static final int title=0x7f080013;
         public static final int tv_data=0x7f080010;
         public static final int tv_title=0x7f08000f;
