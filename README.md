@@ -48,5 +48,5 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
       ![photo](https://github.com/TALHhuang/Notepad-2/blob/master/photo/12.png)  
       ![photo](https://github.com/TALHhuang/Notepad-2/blob/master/photo/13.png)  
    <br><br><br><br><br>
-   
+   `全部的功能如何实现请看代码`
             
