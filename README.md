@@ -27,6 +27,7 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
       （删除以TALH为标题笔记后的主界面）<br><br>
       ![photo](https://github.com/TALHhuang/Notepad-2/blob/master/photo/7.png)
     5.编辑笔记（点击小笔图案进入编辑界面进行笔记编辑。编辑后主界面显示该笔记最新的编辑时间）<br><br>
+       （以编辑 Six two five 为例）<br><br>
        
-       ![photo](https://github.com/TALHhuang/Notepad-2/blob/master/photo/.png)      
-       ![photo](https://github.com/TALHhuang/Notepad-2/blob/master/photo/2.png)
+       ![photo](https://github.com/TALHhuang/Notepad-2/blob/master/photo/8.png)      
+       ![photo](https://github.com/TALHhuang/Notepad-2/blob/master/photo/9.png)
