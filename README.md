@@ -43,6 +43,10 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
      ![photo](https://github.com/TALHhuang/Notepad-2/blob/master/photo/5.png)  
      ![photo](https://github.com/TALHhuang/Notepad-2/blob/master/photo/4.png)  
      <br><br>
-     2.
-     
-     
+     2.更改背景颜色（点击主屏幕右上角的菜单按钮，然后点击 Change Color 选项。再选择自己喜欢的颜色进行更改）<br><br>
+      ![photo](https://github.com/TALHhuang/Notepad-2/blob/master/photo/11.png) 
+      ![photo](https://github.com/TALHhuang/Notepad-2/blob/master/photo/12.png)  
+      ![photo](https://github.com/TALHhuang/Notepad-2/blob/master/photo/13.png)  
+   <br><br><br><br><br>
+   
+            
