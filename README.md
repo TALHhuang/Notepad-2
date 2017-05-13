@@ -35,10 +35,14 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
        ![photo](https://github.com/TALHhuang/Notepad-2/blob/master/photo/9.png)
        <br><br><br><br><br>
  三 UI美化<br>
-    1.item进行美话，然后添加了 `Floating Action Button` (Android floating action button which reacts on scrolling events. Becomes visible when an attached target is scrolled up and invisible when scrolled down.)<br><br>
+    1.item进行美话，然后添加了 `Floating Action Button` (Android floating action button which reacts on scrolling events. Becomes visible when an attached target is scrolled up and invisible when scrolled down.上划按钮消失，下滑按钮出现）<br><br>
      （`Floating Action Button`效果的百度图片    `注意看右下方的按钮`）<br><br>
     ![photo](https://github.com/TALHhuang/Notepad-2/blob/master/photo/FloatingActionButton.gif)
     <br><br>
       (我的 TALH Notepad 程序中该功能的截图，有兴趣的可以下载我的程序去玩玩，效果跟上面效果图一样)
+     ![photo](https://github.com/TALHhuang/Notepad-2/blob/master/photo/5.png)  
+     ![photo](https://github.com/TALHhuang/Notepad-2/blob/master/photo/4.png)  
+     <br><br>
+     2.
      
      
