@@ -21,17 +21,22 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
       <br><br>
      （新建一个TALH标题后的主界面）<br><br>
       ![photo](https://github.com/TALHhuang/Notepad-2/blob/master/photo/4.png)
+      <br><br>
     4.删除笔记（点击每一条笔记右边的小笔按钮进入编辑界面。然后点击屏幕上方的删除按钮删除笔记）<br><br>
       ![photo](https://github.com/TALHhuang/Notepad-2/blob/master/photo/6.png)
       <br><br>
       （删除以TALH为标题笔记后的主界面）<br><br>
-      ![photo](https://github.com/TALHhuang/Notepad-2/blob/master/photo/7.png)
+      ![photo](https://github.com/TALHhuang/Notepad-2/blob/master/photo/7.png)   
+      <br><br>
     5.编辑笔记（点击小笔图案进入编辑界面进行笔记编辑。编辑后主界面显示该笔记最新的编辑时间）<br><br>
        （以编辑 Six two five 为例）<br><br>
-       ![photo](https://github.com/TALHhuang/Notepad-2/blob/master/photo/8.png)      
+       ![photo](https://github.com/TALHhuang/Notepad-2/blob/master/photo/8.png)  
+       ![photo](https://github.com/TALHhuang/Notepad-2/blob/master/photo/7.png)  
        ![photo](https://github.com/TALHhuang/Notepad-2/blob/master/photo/9.png)
        <br><br><br><br><br>
  三 UI美化<br>
     1.item进行美话，然后添加了 `Floating Action Button` (Android floating action button which reacts on scrolling events. Becomes visible when an attached target is scrolled up and invisible when scrolled down.)<br><br>
      （`Floating Action Button`效果的图片百度）<br><br>
+    ![photo](https://github.com/TALHhuang/Notepad-2/blob/master/photo/FloatingActionButton.gif)
+    
      
