@@ -97,6 +97,8 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
             android:layout_gravity="bottom|right"
             android:layout_margin="16dp"
             />
+<br><br>        
+        
         
      2.更改背景颜色（点击主屏幕右上角的菜单按钮，然后点击 Change Color 选项。再选择自己喜欢的颜色进行更改）<br><br>
       ![photo](https://github.com/TALHhuang/Notepad-2/blob/master/photo/11.png) 
