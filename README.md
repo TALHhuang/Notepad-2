@@ -13,9 +13,11 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
    1.TALH Notepad 登入进去的主界面<br><br>
    ![photo](https://github.com/TALHhuang/Notepad-2/blob/master/photo/1.png)
    <br><br>
-   2.按笔记的标题查询笔记(在搜索框中输入要查询的笔记的TITLE然后点击右边的搜索按钮.以下是查询One为TITLE的笔记内容）<br><br>
-   
-       public void Search(String searchTitle){
+   2.按笔记的标题查询笔记(在搜索框中输入要查询的笔记的TITLE然后点击右边的搜索按钮.以下是查询One为TITLE的笔记内容）<br><br>  
+      ![photo](https://github.com/TALHhuang/Notepad-2/blob/master/photo/2.png)
+      <br><br>
+      
+          public void Search(String searchTitle){
         searchData=new ArrayList<NoteBean>();
         for(NoteBean noteBean:mDate){
             if(noteBean.getTitle().equals(searchTitle)){
@@ -26,10 +28,6 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
         mDate.addAll(searchData);
         notifyDataSetChanged();
     }
-    
-    
-      ![photo](https://github.com/TALHhuang/Notepad-2/blob/master/photo/2.png)
-      <br><br>
    3.新建一个笔记（点击屏幕右下方的粉红色加号按钮进入新建界面新建笔记，输入完后点击屏幕上方的保存按钮保存）<br><br>
       ![photo](https://github.com/TALHhuang/Notepad-2/blob/master/photo/3.png)
       <br><br>
