@@ -104,15 +104,16 @@ This is an AndroidStudio rebuild of google SDK sample NotePad
       ![photo](https://github.com/TALHhuang/Notepad-2/blob/master/photo/13.png)  
      <br><br>
      
-          private  void showpopSelectBgWindows(){
-          LayoutInflater inflater = LayoutInflater.from(this);
-          View view = inflater.inflate(R.layout.dialog_bg_select_layout, null);
-          AlertDialog.Builder builder = new AlertDialog.Builder(this);
-          builder.setTitle("背景");
-          builder.setView(view);
-          AlertDialog dialog = builder.create();
-          dialog.show();
-          }
+     
+                 private  void showpopSelectBgWindows(){
+                      LayoutInflater inflater = LayoutInflater.from(this);
+                      View view = inflater.inflate(R.layout.dialog_bg_select_layout, null);
+                      AlertDialog.Builder builder = new AlertDialog.Builder(this);
+                      builder.setTitle("背景");
+                      builder.setView(view);
+                      AlertDialog dialog = builder.create();
+                      dialog.show();
+                         }
 
 
                       color="#7FFF00";
